@@ -1,0 +1,17 @@
+UERANSIM v3.2.6
+[2023-11-13 12:54:09.038] [sctp] [info] Trying to establish SCTP connection... (172.16.0.114:38412)
+[2023-11-13 12:54:09.042] [sctp] [info] SCTP connection established (172.16.0.114:38412)
+[2023-11-13 12:54:09.042] [sctp] [debug] SCTP association setup ascId[6]
+[2023-11-13 12:54:09.042] [ngap] [debug] Sending NG Setup Request
+[2023-11-13 12:54:09.046] [ngap] [debug] NG Setup Response received
+[2023-11-13 12:54:09.046] [ngap] [info] NG Setup procedure is successful
+[2023-11-13 12:55:08.754] [rrc] [debug] UE[1] new signal detected
+[2023-11-13 12:55:08.755] [rrc] [info] RRC Setup for UE[1]
+[2023-11-13 12:55:08.755] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-11-13 12:55:24.226] [rrc] [debug] UE[2] new signal detected
+[2023-11-13 12:55:25.864] [rls] [debug] UE[1] signal lost
+[2023-11-13 12:55:26.886] [rls] [debug] UE[2] signal lost
+[2023-11-13 12:56:07.443] [ngap] [error] Unhandled NGAP initiating-message received (19)
+[2023-11-13 12:56:07.546] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-11-13 12:56:07.546] [ngap] [error] Association terminated for AMF[2]
+[2023-11-13 12:56:07.546] [ngap] [debug] Removing AMF context[2]

@@ -1,0 +1,28 @@
+UERANSIM v3.2.6
+[2023-11-13 12:55:08.754] [nas] [info] UE switches to state [MM-DEREGISTERED/PLMN-SEARCH]
+[2023-11-13 12:55:08.754] [rrc] [debug] New signal detected for cell[1], total [1] cells in coverage
+[2023-11-13 12:55:08.754] [nas] [info] Selected plmn[208/93]
+[2023-11-13 12:55:08.754] [rrc] [info] Selected cell plmn[208/93] tac[1] category[SUITABLE]
+[2023-11-13 12:55:08.754] [nas] [info] UE switches to state [MM-DEREGISTERED/PS]
+[2023-11-13 12:55:08.755] [nas] [info] UE switches to state [MM-DEREGISTERED/NORMAL-SERVICE]
+[2023-11-13 12:55:08.755] [nas] [debug] Initial registration required due to [MM-DEREG-NORMAL-SERVICE]
+[2023-11-13 12:55:08.755] [nas] [debug] UAC access attempt is allowed for identity[0], category[MO_sig]
+[2023-11-13 12:55:08.755] [nas] [debug] Sending Initial Registration
+[2023-11-13 12:55:08.755] [nas] [info] UE switches to state [MM-REGISTER-INITIATED]
+[2023-11-13 12:55:08.755] [rrc] [debug] Sending RRC Setup Request
+[2023-11-13 12:55:08.755] [rrc] [info] RRC connection established
+[2023-11-13 12:55:08.755] [rrc] [info] UE switches to state [RRC-CONNECTED]
+[2023-11-13 12:55:08.755] [nas] [info] UE switches to state [CM-CONNECTED]
+[2023-11-13 12:55:08.773] [nas] [debug] Authentication Request received
+[2023-11-13 12:55:08.773] [nas] [warning] Sending MM Status with cause [SEMANTICALLY_INCORRECT_MESSAGE]
+[2023-11-13 12:55:14.774] [nas] [debug] Authentication Request received
+[2023-11-13 12:55:14.774] [nas] [warning] Sending MM Status with cause [SEMANTICALLY_INCORRECT_MESSAGE]
+[2023-11-13 12:55:20.778] [nas] [debug] Authentication Request received
+[2023-11-13 12:55:20.778] [nas] [warning] Sending MM Status with cause [SEMANTICALLY_INCORRECT_MESSAGE]
+[2023-11-13 12:55:23.780] [nas] [debug] NAS timer[3510] expired [1]
+[2023-11-13 12:55:23.780] [nas] [info] UE switches to state [MM-DEREGISTERED/PS]
+[2023-11-13 12:55:23.780] [nas] [info] UE switches to state [5U2-NOT-UPDATED]
+[2023-11-13 12:55:23.780] [nas] [info] Performing local release of NAS connection
+[2023-11-13 12:55:23.780] [nas] [info] UE switches to state [MM-DEREGISTERED/ATTEMPTING-REGISTRATION]
+[2023-11-13 12:55:23.780] [rrc] [info] UE switches to state [RRC-IDLE]
+[2023-11-13 12:55:23.780] [nas] [info] UE switches to state [CM-IDLE]
