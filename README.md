@@ -57,7 +57,25 @@ With a focus on research reproducibility, a instruction manual was created as pa
 
 ## Publications
 
-To be added
+Please, cite this work as:
+
+L. Oliveira and E. Silva. " Estudo e Avaliação de Métodos de Autenticação EAP na Infraestrutura de Redes de Telecomunicação 5G", in *Anais Estendidos do XXIII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais*, Juiz de Fora/MG, 2023, pp. 97-100, doi: https://doi.org/10.5753/sbseg_estendido.2023.235845.
+
+Or use the BibTex code below:
+```
+@inproceedings{sbseg_estendido_EAP,
+ author = {Leonardo Oliveira and Edelberto Silva},
+ title = {Estudo e Avaliação de Métodos de Autenticação EAP na Infraestrutura de Redes de Telecomunicação 5G},
+ booktitle = {Anais Estendidos do XXIII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais},
+ location = {Juiz de Fora/MG},
+ year = {2023},
+ pages = {97--100},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sbseg_estendido.2023.235845},
+ url = {https://sol.sbc.org.br/index.php/sbseg_estendido/article/view/27280}
+}
+```
 
 ## Acknowledgements
 
